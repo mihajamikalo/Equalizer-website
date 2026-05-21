@@ -35,7 +35,7 @@ const services = [
     Icon: IconEvent,
     title: "Évènementiel",
     description:
-      "Près de 13 ans d'expérience. L'indispensable pour vos ouvertures officielles, mariages et conférences — il donne le rythme et l'énergie à vos événements.",
+      "Chez Equalizer Studio, nous concevons et accompagnons vos événements avec une approche complète, professionnelle et terrain. De l’accueil des invités à l’animation, en passant par la coordination, la photo, la vidéo, le drone ou encore la voix off, notre équipe veille à créer une expérience fluide, élégante et mémorable.",
     href: "/nos-services#evenementiel",
   },
   {
@@ -108,15 +108,15 @@ export default function HomePage() {
         {/* Hero content */}
         <div className="relative z-10 max-w-4xl mx-auto px-6 lg:px-10 text-center py-32">
           <p className="animate-fade-up animation-delay-200 text-gold text-xs tracking-[0.35em] uppercase font-medium mb-6">
-            Agence de Communication Professionnelle
+            Agence de Communication événementielle
           </p>
           <h1
             className="animate-fade-up animation-delay-400 font-display text-5xl sm:text-6xl lg:text-8xl font-light text-white leading-[1.1] mb-6 tracking-tight"
             style={{ fontFamily: "var(--font-ibrand), sans-serif" }}
           >
-            <span className="block">L&apos;Excellence</span>
+            <span className="block">Soutenir</span>
             <span className="block text-gold-gradient italic">
-              à votre service
+              ceux qui veulent évoluer
             </span>
           </h1>
           <p className="animate-fade-up animation-delay-600 text-white/70 text-base sm:text-lg leading-8 max-w-2xl mx-auto mb-10">
